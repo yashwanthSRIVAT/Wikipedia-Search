@@ -1,0 +1,19 @@
+#wiki-search{
+    width: 750px;
+    margin: auto;
+}
+
+#title {
+    text-align: center;
+}
+
+.wikis {
+    display: block;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-top: 2px;
+    text-decoration: none; /* to remove the underlines */
+}
+ .wikis:visited {
+     color: blue;
+ }
